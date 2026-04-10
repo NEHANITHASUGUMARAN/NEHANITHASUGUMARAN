@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nehanitha Sugumaran</h1>
 
 <p align="center">
-AI • Full Stack • Problem Solver • Hackathon Winner
-</p>
+AI • Full Stack • Problem Solver
 
 <p align="center">
 Building real-world solutions using AI, Web & IoT 🚀
