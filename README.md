@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Nehanitha Sugumaran</h1>
+
+<p align="center">
+AI • Full Stack • Problem Solver • Hackathon Winner
+</p>
+
+<p align="center">
+Building real-world solutions using AI, Web & IoT 🚀
+</p>
