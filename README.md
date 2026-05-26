@@ -2,7 +2,8 @@
 
 ### 🚀 Electronics & Communication Engineering Student | Full Stack Developer | AI & IoT Enthusiast
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://iconscout.com/lottie-animation/female-web-developer-animation_7016684">
+
 
 - 🎓 Pursuing B.E. Electronics and Communication Engineering at St. Joseph's Institute of Technology, Chennai
 - 🌱 Currently learning Full Stack Development, AI Integration & DSA
