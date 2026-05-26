@@ -169,13 +169,6 @@
   </a>
 </p>
 
----
-
-
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/NEHANITHASUGUMARAN/NEHANITHASUGUMARAN/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
