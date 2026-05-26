@@ -17,46 +17,61 @@
 
 ## 🌐 Connect with me
 
-<br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehanitha) <br /> [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEHANITHASUGUMARAN) <br />  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nehanithasugumaran@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nehanitha)   &nbsp;&nbsp;&nbsp;  [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEHANITHASUGUMARAN) &nbsp;&nbsp;&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nehanithasugumaran@gmail.com)
 
 ---
 
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
-<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/sql.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/> &nbsp;&nbsp;&nbsp;
 
 ---
 
 ### 🌐 Web Development
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/express-js.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/> 
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/bootstrap.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png"/> &nbsp;&nbsp;&nbsp;
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/express-js.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/api-settings.png"/> &nbsp;&nbsp;&nbsp;
 
 ---
 
-### 🤖 AI / IoT / Cloud
-<img height="50" width="50" src="https://img.icons8.com/color/48/artificial-intelligence.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/arduino.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/cloud.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/api-settings.png"/> 
+### 🗄️ Databases
+<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/sql.png"/>
+
+---
+
+### 🧠 Core Concepts
+<p>
+&nbsp;•&nbsp; OOP &nbsp;•&nbsp; DSA &nbsp;•&nbsp; REST APIs
+</p>
 
 ---
 
 ### 🛠️ Tools & Platforms
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/postman-api.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://www.vectorlogo.zone/logos/render/render-icon.svg"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
 
+---
+
+### 🤝 Soft Skills
+<p>
+&nbsp;•&nbsp; Problem-Solving &nbsp;•&nbsp; Team Collaboration &nbsp;•&nbsp; Communication
+</p>
 ---
 
 # 🚀 Featured Projects
