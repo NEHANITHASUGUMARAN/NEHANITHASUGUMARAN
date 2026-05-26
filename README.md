@@ -5,13 +5,23 @@
 <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 
-- 🎓 Pursuing B.E. Electronics and Communication Engineering at St. Joseph's Institute of Technology, Chennai
-- 🌱 Currently learning Full Stack Development, AI Integration & DSA
-- 🔭 Working on AI + IoT based Smart Systems
-- 🧠 Interested in Artificial Intelligence, IoT, Cloud & Smart Automation
-- 🏆 1st Runner-Up — Tamil Nadu Forest Hackathon
-- 💬 Ask me about Web Development, IoT, Java, AI Projects & APIs
-- ⚡ Fun fact: I love building real-world AI + IoT solutions
+- 🎓 Pursuing B.E. in Electronics and Communication Engineering at St. Joseph's Institute of Technology, Chennai  
+
+- 💻 Full Stack Developer skilled in MERN Stack, REST APIs, Database Management & Responsive Web Applications  
+
+- 🚀 Strong in Frontend and Backend Development with hands-on project experience using React.js, Node.js, Express.js & MongoDB  
+
+- 🌱 Continuously improving Problem Solving, DSA, System Design & Real-World Application Development  
+
+- 🔭 Building AI + IoT based Smart Systems and scalable web applications  
+
+- 🧠 Interested in Full Stack Development, Artificial Intelligence, IoT, Cloud & Smart Automation  
+
+- 🏆 1st Runner-Up — Tamil Nadu Forest Hackathon  
+
+- 💬 Ask me about Full Stack Development, Java, Web Technologies, APIs, IoT & AI Projects  
+
+- ⚡ Fun fact: I enjoy building real-world tech solutions 
 
 ---
 
@@ -63,8 +73,9 @@
 <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png"/> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://www.vectorlogo.zone/logos/render/render-icon.svg"/> &nbsp;&nbsp;&nbsp;
-<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>  &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/canva.png"/> &nbsp;&nbsp;&nbsp;
 
 ---
 
