@@ -36,6 +36,7 @@
 ### 👨‍💻 Languages
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/> &nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -71,9 +72,13 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/git.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/github.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> &nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Thunder%20Client-5C2D91?style=for-the-badge&logo=thunderbird&logoColor=white"/>  &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/vercel.png"/> &nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/ios-filled/50/notion.png"/> &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" src="https://img.icons8.com/color/48/arduino.png"/> &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/>  &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" src="https://img.icons8.com/color/48/canva.png"/> &nbsp;&nbsp;&nbsp;
 
@@ -152,4 +157,34 @@
 
 ---
 
-### ✨ “Building intelligent systems that solve real-world problems using AI + IoT.”
+# 🧠 LeetCode Profile
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=LeetCode+Problem+Solver+💻;DSA+Enthusiast+🚀;Consistency+is+the+Key+🔥" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/NEHANITHASUGUMARAN_2005/">
+    <img src="https://leetcard.jacoblin.cool/NEHANITHASUGUMARAN_2005?theme=dark&font=Karma&ext=contest" />
+  </a>
+</p>
+
+---
+
+
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/NEHANITHASUGUMARAN/NEHANITHASUGUMARAN/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=NEHANITHASUGUMARAN&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">✨ Turning Ideas into Intelligent Systems ✨</h3>
